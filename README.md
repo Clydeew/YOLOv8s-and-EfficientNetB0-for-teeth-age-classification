@@ -118,15 +118,6 @@ content/
 
 ---
 
-## Citation
-
-If you use this work, please cite the accompanying paper:
-
-**Automated Dental Age Estimation Based on Panoramic X-Ray Images Using a Hybrid YOLOv8 and EfficientNet Architecture**
-Faculty of Computer Science, Universitas Brawijaya
-
----
-
 ## Acknowledgment
 
 We thank Universitas Brawijaya and the creators of the UFBA-UESC and Zenodo dental X-ray datasets for providing the resources necessary for this research.
