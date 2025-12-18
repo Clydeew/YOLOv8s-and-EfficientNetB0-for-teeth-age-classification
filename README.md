@@ -33,7 +33,7 @@ EfficientNet is trained using the following staged approach:
 | ----- | ------------------------------------------ | ------------- | ------ |
 | 1     | Regression head training (backbone frozen) | 1e-3          | 50     |
 | 2     | Partial fine-tuning (top layers unfrozen)  | 1e-4          | 50     |
-| 3     | Full fine-tuning (all layers unfrozen)     | 1e-5          | 100    |
+| 3     | Full fine-tuning (all layers unfrozen)     | 1e-6          | 100    |
 
 Regularization techniques include **Dropout** and **Early Stopping** to prevent overfitting.
 
